@@ -13,14 +13,14 @@ This program is made for the sole purpose of practice and showing skills based u
 # Download the Package
 
 ```
-npm i cli_toDoList_piaic_shaheer
+npm i cli_todolist_piaic_shaheer
 
 ```
 
 # Run the To-Do List App on your  VSCode 
 
 ```
-npx cli_toDoList_piaic_shaheer
+npx cli_todolist_piaic_shaheer
 
 ```
 
